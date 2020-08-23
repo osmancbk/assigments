@@ -1,2 +1,2 @@
 # assigments
-My Assigments
+This repo contains assigments for the clarusway course
